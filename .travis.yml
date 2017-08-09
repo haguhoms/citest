@@ -1,3 +1,4 @@
 language: objective-c
-xcode_project: citest/citest.xcodeproj
+osx_image: xcode8.3
+xcode_project: citest.xcodeproj
 xcode_scheme: citest
