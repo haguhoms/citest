@@ -1,4 +1,3 @@
 language: objective-c
 xcode_project: citest.xcodeproj
 xcode_scheme: citest
-xcode_sdk: iphonesimulator
