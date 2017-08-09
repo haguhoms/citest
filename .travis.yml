@@ -1,6 +1,4 @@
 language: objective-c
-before_script:
-    - brew update && brew upgrade xctool
 xcode_project: citest.xcodeproj
 xcode_scheme: citest
 xcode_sdk: iphonesimulator
